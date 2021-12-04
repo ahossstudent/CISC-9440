@@ -91,7 +91,7 @@ Use correct file path here to show picture of Wireframe design...
 Picture of final Dashboard:
 
 Use correct file path here to show picture of Dashboard...
-![Alt text](/img/Dashboard.JPG)
+![Alt text](https://github.com/ahossstudent/CISC-9440/blob/main/Fact%20Table.png)
 
 ### Deployment
 
