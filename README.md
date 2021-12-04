@@ -86,12 +86,12 @@ Average ratings per location
 BI Application Wireframe design:
 
 Use correct file path here to show picture of Wireframe design...
-![Alt text](/img/wireframe_design.JPG)
+![Alt text](https://github.com/ahossstudent/CISC-9440/blob/main/wire.png)
 
 Picture of final Dashboard:
 
 Use correct file path here to show picture of Dashboard...
-![Alt text](https://github.com/ahossstudent/CISC-9440/blob/main/Fact%20Table.png)
+![Alt text](https://github.com/ahossstudent/CISC-9440/blob/main/dash.png)
 
 ### Deployment
 
