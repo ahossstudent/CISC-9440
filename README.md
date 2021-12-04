@@ -58,7 +58,7 @@ List of Data Warehouse KPI's:
 
 This project's Dimensional Model consists of 1 Facts and 3 Dimensions
 
-![dim](/Users/mehdilahlou/Desktop/BaruchGrad/CIS 9440/Airbnb Project/new/Dimensional_Model.jpg)
+![dim](https://github.com/ahossstudent/CISC-9440/blob/main/Fact%20Table.png)
 
 This project's Kimball Bus Matrix:
 
